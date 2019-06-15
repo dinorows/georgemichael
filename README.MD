@@ -1,1 +1,0 @@
-Note that Program.cs, the .csproj file for its dependencies, and web.config are non-standard.
